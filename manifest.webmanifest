@@ -1,0 +1,30 @@
+{
+  "id": "./",
+  "name": "Learn to Drive: Fix My Car",
+  "short_name": "Learn to Drive",
+  "description": "Launch, fly, upgrade, explore space, and save Earth in this offline arcade flight game.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#0d0d12",
+  "theme_color": "#0d0d12",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
